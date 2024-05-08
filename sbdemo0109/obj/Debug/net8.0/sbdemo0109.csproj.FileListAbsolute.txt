@@ -1,0 +1,6 @@
+/workspaces/genaitest/sbdemo0109/obj/Debug/net8.0/sbdemo0109.csproj.AssemblyReference.cache
+/workspaces/genaitest/sbdemo0109/obj/Debug/net8.0/sbdemo0109.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/genaitest/sbdemo0109/obj/Debug/net8.0/sbdemo0109.AssemblyInfoInputs.cache
+/workspaces/genaitest/sbdemo0109/obj/Debug/net8.0/sbdemo0109.AssemblyInfo.cs
+/workspaces/genaitest/sbdemo0109/obj/Debug/net8.0/sbdemo0109.csproj.CoreCompileInputs.cache
+/workspaces/genaitest/sbdemo0109/obj/Debug/net8.0/sbdemo0109.sourcelink.json
