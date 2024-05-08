@@ -1,0 +1,2 @@
+# genaitest
+GenAI related exercise
